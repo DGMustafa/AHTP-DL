@@ -5,34 +5,44 @@ Data Sets
 =========
 
 allseq.csv 
+
 All raw peptide sequences of benchmarking dataset in Fasta format.
 
 fet_all_0.csv 		
+
 Dipeptide Composition (DPC) features with Gap 0 for benchmarking dataset.
 
 fet_all_1.csv 		
+
 DPC features with Gap 1 for benchmarking dataset.
 
 fet_all_2.csv 		
+
 DPC features with Gap 2 for benchmarking dataset.
 
 fet_all_3.csv 		
+
 DPC features with Gap 3 for benchmarking dataset.
 
 
 allseq_ind.csv 		
+
 All raw peptide sequences of independent dataset in Fasta format.
 
 zero_ind.csv 		
+
 DPC features with Gap 0 for benchmarking dataset.
 
 one_ind.csv 		
+
 DPC features with Gap 1 for benchmarking dataset.
 
 two_ind.csv 		
+
 DPC features with Gap 2 for benchmarking dataset.
 
 three_ind.csv 		
+
 DPC features with Gap 3 for benchmarking dataset.
 
 
