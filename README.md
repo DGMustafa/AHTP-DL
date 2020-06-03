@@ -1,7 +1,6 @@
 # AHTP-DL
 This repository contains the python code and the datasets used to produce the results of the research article titled "Boosted Prediction of Antihypertensive Peptides using Deep Learning".
 
-=========
 Data Sets
 =========
 
@@ -17,7 +16,6 @@ one_ind.csv 		DPC features with Gap 1 for benchmarking dataset.
 two_ind.csv 		DPC features with Gap 2 for benchmarking dataset.
 three_ind.csv 		DPC features with Gap 3 for benchmarking dataset.
 
-===========
 Python Code
 ===========
 
